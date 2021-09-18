@@ -1,12 +1,12 @@
 # Netflix-Clone-Project with ReactJs
 
-## It fetches the data from TMDB (The Movie Database) API
+### It fetches the data from TMDB (The Movie Database) API
 
-## This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+### This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
-## The app is deployed using Firebase
+### The app is deployed using Firebase
 
-## Netflix Clone Link => [Click Me!](https://netflix-clone-project-eb419.web.app/)
+# Netflix Clone Link => [Click Me!](https://netflix-clone-project-eb419.web.app/)
 
 ### `Author`
 Nazile Tağ
